@@ -1,0 +1,43 @@
+h1{
+margin-left:45%;
+font-weight:bold;
+font-family: Comic Sans MS, Comic Sans MS, cursive;	
+}
+
+h2{
+margin:0 0 0 230px;
+border: 2px solid black;
+border-top:none;
+width:138px;
+text-align: center;
+font-family: Comic Sans MS, Comic Sans MS, css;
+}
+
+span:nth-child(1) h2{
+background:#f8b2b2;
+}
+
+span:nth-child(2) h2{
+background:#c5003a;
+color:white;
+}
+
+span:nth-child(3) h2{
+background:#f4df98;
+}
+
+p{
+font-family: Comic Sans MS, Comic Sans MS, css;
+}
+
+span{
+margin: 20px 0 0 20px;
+font-weight:bold;
+background-color:gray;
+padding:0 0 0 10px;
+width:370px;
+border: 2px solid black;
+clear:right;
+align:center;
+float:left;
+}
