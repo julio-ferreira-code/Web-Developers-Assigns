@@ -5,7 +5,7 @@ font-family: Comic Sans MS, Comic Sans MS, cursive;
 }
 
 h2{
-margin:0 0 0 230px;
+margin:0 0 0 220px;
 border: 2px solid black;
 border-top:none;
 width:138px;
@@ -31,13 +31,30 @@ font-family: Comic Sans MS, Comic Sans MS, css;
 }
 
 span{
-margin: 20px 0 0 20px;
+margin: 20px 0 0 30px;
 font-weight:bold;
 background-color:gray;
 padding:0 0 0 10px;
 width:370px;
 border: 2px solid black;
 clear:right;
-align:center;
 float:left;
+}
+
+#dropdownMenuButton1{
+    font-size:24px;
+    margin-left: 80%;
+}
+
+.dropdown-menu{
+    width: 100%;
+}
+
+.dropdown{
+    background-color: antiquewhite;
+}
+
+label{
+    font-weight:bold;
+    margin: 0 0 2% 2%;
 }
